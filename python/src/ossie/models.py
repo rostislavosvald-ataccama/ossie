@@ -74,6 +74,7 @@ class OssieVendor(str, Enum):
     SEMANTIDO = "SEMANTIDO"
     WISDOM = "WISDOM"
     SIGMA = "SIGMA"
+    ATACCAMA = "ATACCAMA"
 
 
 class OssieAIContextObject(BaseModel):
